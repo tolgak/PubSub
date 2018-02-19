@@ -1,0 +1,11 @@
+C:\_development\PubSub\PubSub\bin\Debug\PubSub.exe.config
+C:\_development\PubSub\PubSub\bin\Debug\PubSub.exe
+C:\_development\PubSub\PubSub\bin\Debug\PubSub.pdb
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.Properties.Resources.resources
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.csproj.GenerateResource.Cache
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.csproj.CoreCompileInputs.cache
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.exe
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.pdb
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.frmMain.resources
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.frmFeature.resources
+C:\_development\PubSub\PubSub\obj\Debug\PubSub.csprojResolveAssemblyReference.cache
